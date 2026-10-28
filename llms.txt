@@ -1,0 +1,9 @@
+# Voidone
+
+> Voidone is the team behind Void, a Discord bot for moderation, welcome messages, levels and logging. Void is in beta.
+
+## Facts
+- Void bot site: https://bot.voidone.fun/
+- Support server: https://dsc.gg/voidone
+- Careers: https://voidone.fun/careers (we are looking for developers, designers, moderators, community managers and support people; applications are written in English and answered by email)
+- Not affiliated with Discord
